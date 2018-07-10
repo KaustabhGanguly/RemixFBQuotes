@@ -14,4 +14,4 @@ I created an interesting Python script which Web scrapes a random quote and it's
 - Copy and Paste your ACCESS_TOKEN in the FacebookPost.py file through vim or any editor
 - Then Simply use <i>$ python FacebookPost.py</i> and open facebook to see the magic :D
 
-### you can use a bash shell script to run this file and sleep for 3600 in a infinite while loop , and it will post a random quote every 1 hour .You can easily do that , and you can make a pull request too if you have any ideas .
+### Make a pull request too if you have any ideas .
