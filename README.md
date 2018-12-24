@@ -15,3 +15,6 @@ I created an interesting Python script which Web scrapes a random quote and it's
 - Then Simply use <i>$ python FacebookPost.py</i> and open facebook to see the magic :D
 
 ### Make a pull request too if you have any ideas .
+
+### Update : 24/12/2018 :
+Not maintaining it anymore
